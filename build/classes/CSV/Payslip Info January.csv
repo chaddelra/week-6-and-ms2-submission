@@ -1,0 +1,26 @@
+Employee ID,Last Name,First Name,Supervisor,Total Allow.,Gross Pay,Net Pay,SSS Contr.,HMO Cont.,Pagibig Cont.,Tax. income
+10001,Garcia,Manuel III,N/A,4500,8571.43,7888.93,382.5,128.57,171.43,0
+10002,Lim,Antonio,Garcia Manuel III,4500,5714.29,5266.79,247.5,85.71,114.29,0
+10003,Aquino,Bianca Sofia,Garcia Manuel III,4500,5714.29,5266.79,247.5,85.71,114.29,0
+10004,Reyes,Isabella,Garcia Manuel III,4500,5714.29,5266.79,247.5,85.71,114.29,0
+10005,Hernandez,Eduard,Lim Antonio,3500,5016.19,4589.5,225,75.24,100.32,0
+10006,Villanueva,Andrea Mae,Lim Antonio,3500,5016.19,4615.62,225,75.24,100.32,0
+10007,San Jose,Brad ,Villanueva Andrea Mae,3100,4092.86,3697.13,180,61.39,81.86,0
+10008,Romualdez,Alice,San Jose Brad,2500,2142.86,1932.86,135,32.14,42.86,0
+10009,Atienza,Rosie ,San Jose Brad,2500,2142.86,1932.86,135,32.14,42.86,0
+10010,Alvaro,Roderick,Aquino Bianca Sofia ,3500,5016.19,4615.62,225,75.24,100.32,0
+10011,Salcedo,Anthony,Alvaro Roderick,3500,4386.68,3324.74,202.5,65.8,87.73,0
+10012,Lopez,Josie ,Salcedo Anthony,3100,3664.29,3378.54,157.5,54.96,73.29,0
+10013,Farala,Martha,Salcedo Anthony,2500,2285.71,2070.71,135,34.29,45.71,0
+10014,Martinez,Leila,Salcedo Anthony,2500,2285.71,2070.71,135,34.29,45.71,0
+10015,Romualdez,Fredrick ,Lim Antonio,3500,5095.24,4691.9,225,76.43,101.9,0
+10016,Mata,Christian,Romualdez Fredrick ,3100,4092.86,3692.87,180,61.39,81.86,0
+10017,De Leon,Selena ,Romualdez Fredrick ,3100,3985.71,3666.21,180,59.79,79.71,0
+10018,San Jose,Allison ,Mata Christian,2500,2142.86,1932.86,135,32.14,42.86,0
+10019,Rosario,Cydney ,Mata Christian,2500,2142.86,1932.86,135,32.14,42.86,0
+10020,Bautista,Mark ,Mata Christian,2500,2214.29,2001.79,135,33.21,44.29,0
+10021,Lazaro,Darlene ,Mata Christian,2500,1660.71,796.38,135,24.91,33.21,0
+10022,Delos Santos,Kolby ,Mata Christian,2500,2285.71,2070.71,135,34.29,45.71,0
+10023,Santos,Vella ,Mata Christian,2500,2142.86,1932.86,135,32.14,42.86,0
+10024,Del Rosario,Tomas,Mata Christian,2500,2142.86,1908.3,135,32.14,42.86,0
+10025,Tolentino,Jacklyn ,De Leon Selena,2500,2285.71,2070.71,135,34.29,45.71,0
